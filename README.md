@@ -87,3 +87,9 @@ Developed an interactive Power BI dashboard to analyze Blinkit's sales performan
 - KPI Development
 - Business Analysis
 - Data Storytelling
+
+---
+
+## Dashboard Preview
+
+![Blinkit Dashboard](images/dashboard.png)
